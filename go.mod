@@ -1,4 +1,4 @@
-module github.com/cengsin/oracle
+module github.com/onlyzzg/oracle
 
 go 1.20
 
