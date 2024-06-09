@@ -11,7 +11,7 @@ import (
 	"gorm.io/gorm/clause"
 	gormSchema "gorm.io/gorm/schema"
 
-	"github.com/onlyzzg/oracle/clauses"
+	"github.com/jasonlabz/oracle/clauses"
 )
 
 func Create(db *gorm.DB) {
